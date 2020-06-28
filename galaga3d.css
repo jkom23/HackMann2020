@@ -1,0 +1,32 @@
+body {
+    padding-left: 11em;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    background-color: #18ade7 }
+h1 {
+    font-size: 40px;
+    font-weight: 120;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: uppercase; }
+h2 {
+    font-size: 24px;
+    font-weight: 240;
+    text-align: left;
+    text-decoration: underline; }
+h3 {
+    font-size: 22px;
+    font-weight: 240;
+    text-align: left;
+    text-decoration: underline; }
+p {
+    font-size: 18px;
+    margin-right: 150px; 
+    font-family: 'Work Sans', sans-serif; }
+  a:link {
+    color: blue }
+  a:visited {
+    color: purple }
+.inline-block {
+        display: inline-block;
+     }
